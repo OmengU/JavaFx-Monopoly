@@ -1,0 +1,2 @@
+# JavaFx-Monopoly
+school project
