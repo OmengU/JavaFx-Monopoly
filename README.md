@@ -1,7 +1,7 @@
 # JavaFx-Monopoly
 In this school project I am going to (try to) implement the game "Monopoly" in Java using the software platform JavaFX
 ## General Information
-The game will support 2-4 players. On the start of a game, each player will recieve a certain (possibly definable) amount of a fictional currency i call **PiBucks(π)**. Unlike real Monopoly there aren't any bills players need to keep track of. PiBucks are an entirely digital currency. The game will also feature a lot of (unfunny) memes, so that the game will be more fun and also to make it more distinct since another group is also implementing monopoly.
+The game will support 2-4 players. On the start of a game, each player will receive a certain (possibly definable) amount of a fictional currency I call **PiBucks(π)**. Unlike real Monopoly there aren't any bills players need to keep track of. PiBucks are an entirely digital currency. The game will also feature a lot of (unfunny) [memes](https://en.wikipedia.org/wiki/Internet_meme), so that the game will be more fun and also to make it more distinct since another group is also implementing monopoly.
 ## Flow of the game
 In the beginning of the game each player will role dice and land on a random field in result. The game will feature these fields:
 ### Property fields
